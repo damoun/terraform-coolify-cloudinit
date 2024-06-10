@@ -1,9 +1,9 @@
 <h1 align="center">
-  terraform-module-template
+  terraform-coolify-cloudinit
   <br>
 </h1>
 
-<h4 align="center">A terraform module repository template.</h4>
+<h4 align="center">A terraform module to install Coolify with cloudinit user data.</h4>
 
 <p align="center">
   <a href="#requirements">Requirements</a> •
@@ -12,7 +12,7 @@
   <a href="#modules">Modules</a> •
   <a href="#inputs">Inputs</a> •
   <a href="#Outputs">Outputs</a> •
-  <a href="#resources">Resources</a> •
+  <a href="#resources">Resources</a>
 </p>
 
 <!-- BEGIN_TF_DOCS -->
