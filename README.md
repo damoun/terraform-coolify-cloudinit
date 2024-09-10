@@ -22,7 +22,7 @@
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.8.4 |
 | <a name="requirement_cloudinit"></a> [cloudinit](#requirement\_cloudinit) | 2.3.4 |
-| <a name="requirement_http"></a> [http](#requirement\_http) | 3.4.3 |
+| <a name="requirement_http"></a> [http](#requirement\_http) | 3.4.4 |
 
 ## Example
 
@@ -63,7 +63,7 @@ resource "hcloud_server" "coolify" {
 | Name | Version |
 |------|---------|
 | <a name="provider_cloudinit"></a> [cloudinit](#provider\_cloudinit) | 2.3.4 |
-| <a name="provider_http"></a> [http](#provider\_http) | 3.4.3 |
+| <a name="provider_http"></a> [http](#provider\_http) | 3.4.4 |
 
 ## Modules
 
@@ -86,5 +86,5 @@ No modules.
 | Name | Type |
 |------|------|
 | [cloudinit_config.coolify](https://registry.terraform.io/providers/hashicorp/cloudinit/2.3.4/docs/data-sources/config) | data source |
-| [http_http.install_script](https://registry.terraform.io/providers/hashicorp/http/3.4.3/docs/data-sources/http) | data source |
+| [http_http.install_script](https://registry.terraform.io/providers/hashicorp/http/3.4.4/docs/data-sources/http) | data source |
 <!-- END_TF_DOCS -->
